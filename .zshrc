@@ -7,7 +7,6 @@ fi
 
 # alias
 alias cl=clear
-# alias lll='ls -lah'
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
