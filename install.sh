@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 安装 zsh
-sudo apt-get install zsh curl wget -y
+sudo apt-get install zsh curl wget git -y
 
 # 修改 zsh为系统默认 shell
 chsh -s /bin/zsh
