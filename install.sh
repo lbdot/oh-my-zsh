@@ -20,8 +20,8 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 # 修改配置文件
 rm ~/.zshrc ~/.p10k.zsh
-wget -P ~ https://raw.githubusercontent.com/lilungpo/oh-my-zsh/main/.zshrc
-wget -P ~ https://raw.githubusercontent.com/lilungpo/oh-my-zsh/main/.p10k.zsh
+wget -P ~ https://raw.githubusercontent.com/lbdot/oh-my-zsh/main/.zshrc
+wget -P ~ https://raw.githubusercontent.com/lbdot/oh-my-zsh/main/.p10k.zsh
 
 # 重新加载配置
 source ~/.zshrc
